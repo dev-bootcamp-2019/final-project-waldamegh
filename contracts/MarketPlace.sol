@@ -181,7 +181,7 @@ contract MarketPlace is Ownable {
             return addressTypes.shopper;
     }
 
-    /** @dev admin can approve created store front
+    /** @dev admin can approve created store frontreturns(bool)
       * @param _storeNum store number
     */ 
     function approveStoreFront(uint _storeNum) public onlyAdmin() isMarketActive() {
