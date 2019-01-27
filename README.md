@@ -66,6 +66,9 @@ $ truffle migrate --reset
 $ truffle test
 ```
 
+![image](https://imgur.com/usAgqzc.png)
+
+
 ## Deploy Contract in a Test Network Rinkeby
 
 ```
@@ -107,4 +110,19 @@ $ npm run start
 ```
 Go to [http//localhost:3000](http://localhost:3000/) 
 
+- Market Owner Inerface
 ![image](https://imgur.com/dfbUZxg.png)
+
+- Admin Inerface
+
+![image](https://imgur.com/REQOsid.png)
+
+- Store Owner Inerface
+
+![image](https://imgur.com/7Z6Xu2V.png)
+
+![image](https://imgur.com/y2vQRQI.png)
+
+- Shopper Inerface
+
+![image](https://imgur.com/PzQemEQ.png)
