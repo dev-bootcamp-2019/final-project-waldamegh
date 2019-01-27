@@ -6,21 +6,21 @@ A simple Ethereum smart contract for online marketplace.
 ## Contract Main Functinality
 
 - Market owner functionality
-      ✓ Market owner is able to add a new admin
-      ✓ Market owner is able to remove an admin
-      ✓ Market owner is able to change Market State
+      Market owner is able to add a new admin
+      Market owner is able to remove an admin
+      Market owner is able to change Market State
 - Admin functionality
-      ✓ Admin is able to add a new store owner
-      ✓ Admin is able to remove a store owner
-      ✓ Admin is able to approve Store Front
+      Admin is able to add a new store owner
+      Admin is able to remove a store owner
+      Admin is able to approve Store Front
 - Store Owner functionality
-      ✓ Store Owner is able to create a new store front
-      ✓ Store Owner is able to add a new product
-      ✓ Store Owner is able to update product price
-      ✓ Store Owner is able to remove product
-      ✓ Store owner able to withdraw funds
+      Store Owner is able to create a new store front
+      Store Owner is able to add a new product
+      Store Owner is able to update product price
+      Store Owner is able to remove product
+      Store owner able to withdraw funds
 - Shopper  functionality
-      ✓ Shopper is able to pruchase a product
+      Shopper is able to pruchase a product
 
 ## Installation
 
@@ -108,4 +108,3 @@ $ npm run start
 Go to [http//localhost:3000](http://localhost:3000/) 
 
 ![image](https://imgur.com/dfbUZxg.png)
-# final-project-waldamegh
